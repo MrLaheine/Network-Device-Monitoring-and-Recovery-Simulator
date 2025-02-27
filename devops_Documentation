@@ -1,0 +1,14 @@
+Purpose:
+
+Contains Jenkins, Docker, and deployment scripts.
+Automates testing, building, and deployment processes.
+Key Features:
+Jenkins pipelines for CI/CD.
+Docker setup for containerized testing.
+Scripts for automated testing and deployments.
+
+How to Contribute:
+
+Modify/update CI/CD pipeline or deployment script.
+Test changes locally before pushing.
+Push changes and create a PR to devops-config.
