@@ -1,0 +1,8 @@
+Purpose:
+
+Stores automated test cases for API, UI, and CI/CD workflows.
+Tracks reported bugs and their fixes.
+Key Features:
+Unit tests for backend and frontend.
+Selenium tests for UI.
+Bug reports and issue tracking.
