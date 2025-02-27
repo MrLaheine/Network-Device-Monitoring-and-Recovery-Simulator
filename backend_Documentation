@@ -1,0 +1,9 @@
+Purpose:
+
+Contains the backend code (Flask/Django API).
+Manages network configurations, API endpoints, and data processing.
+
+Key Features:
+✅ REST API for managing virtual network devices.
+✅ Configuration storage (JSON/Database).
+✅ Endpoints for retrieving, comparing, and restoring configurations.
