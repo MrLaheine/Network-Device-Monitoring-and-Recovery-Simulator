@@ -1,0 +1,8 @@
+Purpose:
+
+Contains the web UI code (HTML, CSS, JavaScript).
+Responsible for visualizing network configurations and user interactions.
+Key Features:
+Interactive dashboard for monitoring network devices.
+Forms for managing and restoring configurations.
+API integration for fetching real-time data.
